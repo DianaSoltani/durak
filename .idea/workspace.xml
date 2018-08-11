@@ -2,81 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="59889e7a-6eba-4554-9a01-059eb618f6d8" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/game/composer.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/resources/views/layout.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/game/resources/views/layout.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/game/resources/views/play.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/game/resources/views/play.blade.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/cards.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/example.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/example.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/img/cards.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/jquery-1.7.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c12.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c14.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/c9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/cardback_blue.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/cardback_red.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d12.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d14.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/d9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h12.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h14.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/h9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/joker_black.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/joker_red.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s10.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s11.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s12.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s13.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s14.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s2.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s4.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s5.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s6.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s7.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s8.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/library/svg/s9.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -107,8 +35,8 @@
       <file leaf-file-name="layout.blade.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/game/resources/views/layout.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="289">
+              <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
               <folding>
                 <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
               </folding>
@@ -119,8 +47,17 @@
       <file leaf-file-name="play.blade.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/game/resources/views/play.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+            <state relative-caret-position="102">
+              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="composer.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/composer.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="457">
+              <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -162,8 +99,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/game/routes/web.php" />
-        <option value="$PROJECT_DIR$/game/resources/views/layout.blade.php" />
+        <option value="$PROJECT_DIR$/game/composer.json" />
         <option value="$PROJECT_DIR$/game/resources/views/play.blade.php" />
+        <option value="$PROJECT_DIR$/game/resources/views/layout.blade.php" />
       </list>
     </option>
   </component>
@@ -360,12 +298,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1533997130986</updated>
-      <workItem from="1533997132248" duration="6630000" />
+      <workItem from="1533997132248" duration="8187000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6630000" />
+    <option name="totallyTimeSpent" value="8187000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -432,10 +370,17 @@
     <entry file="file://$PROJECT_DIR$/game/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/game/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/game/resources/views/layout.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="289">
+          <caret line="17" column="99" selection-start-line="17" selection-start-column="99" selection-end-line="17" selection-end-column="99" />
           <folding>
             <element signature="n#style#0;n#head#0;n#html#0;n#!!top" />
           </folding>
@@ -444,8 +389,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/game/resources/views/play.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
         </state>
       </provider>
     </entry>
