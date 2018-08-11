@@ -63,10 +63,10 @@
                 margin-bottom: 30px;
             }
         </style>
-@yield('header')
+        @yield('header')
     </head>
     <body>
-      
-@yield('content')     
+
+        @yield('content')
     </body>
 </html>

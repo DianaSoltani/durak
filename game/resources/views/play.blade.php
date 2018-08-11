@@ -1,8 +1,10 @@
 @extends('layout')
 @section('header')
-    <link rel="stylesheet" type="text/css" href="https://unpkg.com/cardsJS/dist/cards.min.css" />
-    <script src="https://unpkg.com/cardsJS/dist/cards.min.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="node_modules/deck-of-cards/example/example.css">
+
 @stop
 @section('content')
 
+    
+    <script src="node_modules/deck-of-cards/dist/deck.min.js"></script>
 @stop
